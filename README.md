@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @keith-taylor
 - 👀 I’m interested in programming, and AI.
 - 🌱 I’m currently learning Python and Data Science.
-- 🐦 Twitter: @keith_167
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇬🇧 👨🏻‍💻 💻 🧠 🎶 🏃🏻
 
 <!---
